@@ -1,0 +1,8 @@
+.container {
+  position: relative;
+  width: 500px;
+  height: 100px;
+  background-color: none;
+  /* required for the enableGhostResize option to work */
+  box-sizing: border-box;
+}
